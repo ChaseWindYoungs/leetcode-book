@@ -14,7 +14,8 @@ const sideArr = [
     collapsible: true,
     children: [
       fullPath("string/3"),
-      fullPath("test"),
+      fullPath("string/14"),
+      fullPath("string/567"),
     ],
   },
 ];
