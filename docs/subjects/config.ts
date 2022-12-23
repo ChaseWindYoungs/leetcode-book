@@ -16,6 +16,8 @@ const sideArr = [
       fullPath("string/3"),
       fullPath("string/14"),
       fullPath("string/567"),
+      fullPath("string/43"),
+      fullPath("string/151"),
     ],
   },
 ];
