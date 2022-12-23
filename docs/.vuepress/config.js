@@ -17,7 +17,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: "题解",
-        link: "/subjects",
+        link: "/subjects/string/3.html",
       },
       {
         text: "数据结构",

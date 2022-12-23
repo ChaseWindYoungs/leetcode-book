@@ -20,6 +20,13 @@ const sideArr = [
       fullPath("string/151"),
     ],
   },
+  {
+    text: "数组",
+    collapsible: true,
+    children: [
+      fullPath("array/15"),
+    ],
+  },
 ];
 sideBarConfig[`/${DocPaths.Subjects}/`] = sideArr;
 
