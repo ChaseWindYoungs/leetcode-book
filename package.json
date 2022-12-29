@@ -13,6 +13,7 @@
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",
     "@vuepress/client": "2.0.0-beta.58",
+    "@vuepress/utils": "2.0.0-beta.58",
     "lodash-es": "^4.17.21",
     "vue": "^3.2.41"
   },

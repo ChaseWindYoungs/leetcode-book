@@ -4,7 +4,7 @@ import { getDirname, path } from "@vuepress/utils";
 import LeetCodeConfig from "../subjects/config";
 const __dirname = getDirname(import.meta.url);
 export default defineUserConfig({
-  base: '/leetcode-book/',
+  base: "/leetcode-book/",
   lang: "zh-CN",
   title: "LeetCode-Book",
   // [https://v2.vuepress.vuejs.org/zh/reference/config.html#description]
@@ -35,6 +35,7 @@ export default defineUserConfig({
     sidebarDepth: 0,
   }),
 
+  // https://v2.vuepress.vuejs.org/zh/reference/plugin/register-components.html
   plugins: [
     registerComponentsPlugin({
       // 配置项
