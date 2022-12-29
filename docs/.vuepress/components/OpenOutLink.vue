@@ -53,7 +53,6 @@ export default defineComponent({
       }
     };
     const setBadgeText = () => {
-      console.log(2222)
       badgeText.value = BadgeTextEnum[props.type];
     }
     setBadgeText();

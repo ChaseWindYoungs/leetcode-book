@@ -7,7 +7,7 @@ heroText: LeetCode-Book
 
 lang: zh-CN
 
-title: 首页的页面的标题22222
+title: 首页的页面的标题
 
 tagline: '一个用JS解释算法的手册'
 
