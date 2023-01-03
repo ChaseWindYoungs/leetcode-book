@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"这里，先空着。。","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1671432265000,"contributors":[{"name":"sirius.cheng","email":"sirius.cheng@yunlsp.com","commits":1}]},"filePathRelative":"guide/index.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-60d278ac","path":"/artical.html","title":"页面的标题111","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"页面的标题111","description":"页面的描述222"},"headers":[],"git":{"updatedTime":1671432265000,"contributors":[{"name":"sirius.cheng","email":"sirius.cheng@yunlsp.com","commits":1}]},"filePathRelative":"artical.md"}');export{t as data};

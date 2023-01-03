@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-bf08d210","path":"/subjects/test.html","title":"我就是试一试","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"谁知道呢","slug":"谁知道呢","link":"#谁知道呢","children":[]}],"git":{"updatedTime":1671432265000,"contributors":[{"name":"sirius.cheng","email":"sirius.cheng@yunlsp.com","commits":1}]},"filePathRelative":"subjects/test.md"}');export{t as data};
