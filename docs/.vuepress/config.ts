@@ -28,6 +28,10 @@ export default defineUserConfig({
         text: "阅读指南",
         link: "/guide/",
       },
+      {
+        text: "博客",
+        link: "https://github.com/ChaseWindYoungs/blog",
+      },
     ],
 
     // 侧边栏导航
